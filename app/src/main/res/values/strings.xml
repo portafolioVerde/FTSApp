@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">FTSApp</string>
+    <string name="app_name_long">Legalización de Facturas</string>
+    <string name="name_default">NameDefault</string>
+    <string name="id_default">IdDefault</string>
+    <string name="email_default">EmailDefault</string>
+    <string name="cerrarsesion_title">Cerrar Sesión</string>
+    <string name="menu_title">Menú</string>
+    <string name="perfil_title">Perfil</string>
+    <string name="registrar_salida_title">REGISTRAR GASTO</string>
+    <string name="ver_salidas_title">VER SALIDAS</string>
+    <string name="ver_gastos_title">VER GASTOS</string>
+    <string name="datos_de_actividad_title">Datos de la Actividad</string>
+    <string name="nombre_de_la_actividad_title">Ej: Avance 2 Pronavícola</string>
+    <string name="valor_del_presupuesto_title">Ej: 1 800 000</string>
+    <string name="fecha_de_inicio_title">Ej:  21-08-2019</string>
+    <string name="fecha_de_finaliza_estimada_title">Ej:  21-12-2019</string>
+    <string name="textip_01">Ingresa cada campo como se muestra en el ejemplo,
+        ademas verifica muy bien la información antes de continuar</string>
+    <string name="title_a_04">Aquì se podra visualizar, agregar y modificar cada uno de los gastos de tu salida.</string>
+    <string name="agregar_gasto_title">Agregar Gasto</string>
+    <string name="proveedorDefault_title">Proveedor</string>
+    <string name="cc_nit_title">CC/Nit</string>
+    <string name="razon_social_title">Razón Social</string>
+    <string name="fecha_title">Fecha</string>
+    <string name="lugar_title">Lugar</string>
+    <string name="title_tip_0602">Nota! Aqui debes cargar la factura o la imagen que guardaste
+        como soporte del gasto ó presiona Aqui para adjuntar un Documento Equivalente.</string>
+    <string name="title_tip_0603">Nota! Para diligenciar el campo CC/NIT solo debes ingresar nit o cédula completa sin digitos de verificación.</string>
+    <string name="title_tip_0601">Para tener en cuenta, el campo fecha debes diligenciarlo de esta manera ej: 20-07-2019 </string>
+    <string name="title_tip_0702">Nota! Ingresa solo números preferiblemente sin puntos ni comas.</string>
+    <string name="title_tip_0701">Ingresa información adicional sobre tu factura</string>
+    <string name="Subtotal">Subtotal</string>
+    <string name="Impuesto">Impuesto</string>
+    <string name="retefuente">Retefuente</string>
+    <string name="iva_title">IVA</string>
+    <string name="description_title">Ingrese una Descripción</string>
+    <string name="title_url">Cargue su archivo adjunto</string>
+    <string name="foto_imagen">Foto/Imagen</string>
+    <string name="descripcion_title02">Descripción</string>
+    <string name="soporte_title">Soporte de Facturación</string>
+    <string name="title_tip09">Confírmanos si quieres guardar éste gasto?!</string>
+    <string name="rechazar_title">Rechazar</string>
+    <string name="confirmar_title">Confirmar</string>
+    <string name="positiveResp">Menú</string>
+    <string name="negativeResp">Anterior</string>
+    <string name="abc">a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,A,B,C,D,E,F,G,H,I,
+        J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,0,1,2,3,4,5,6,7,8,9,-</string>
+    <string name="strings_num">0,1,2,3,4,5,6,7,8,9,-</string>
+    <string name="strings_values_numbs">0,1,2,3,4,5,6,7,8,9,-, ,</string>
+    <string name="concepto_title">Concepto</string>
+    <string name="total_title">Total</string>
+    <string name="tomar_foto">Tomar Foto</string>
+    <string name="subir_imagen">Subir Imagen</string>
+    <string name="descripcion_title">Ingrese aqui una descripción</string>
+    <string name="presiona_para_ingresar_una_fecha">Presiona para ingresar una Fecha</string>
+    <string name="title_salida">Información de Salida</string>
+    <string name="title_ingresarfecha">Ingrese una Fecha</string>
+    <string name="enviar_mail">email</string>
+
+</resources>
